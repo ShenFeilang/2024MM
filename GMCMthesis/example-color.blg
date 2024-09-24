@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: example-color.aux
+The style file: gmcm.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: reference.bib
+You've used 5 entries,
+            3957 wiz_defined-function locations,
+            882 strings with 6836 characters,
+and the built_in function-call counts, 18578 in all, are:
+= -- 264
+> -- 2118
+< -- 2798
++ -- 785
+- -- 30
+* -- 136
+:= -- 2649
+add.period$ -- 5
+call.type$ -- 5
+change.case$ -- 5
+chr.to.int$ -- 692
+cite$ -- 5
+duplicate$ -- 83
+empty$ -- 205
+format.name$ -- 60
+if$ -- 4773
+int.to.chr$ -- 1
+int.to.str$ -- 6
+missing$ -- 0
+newline$ -- 34
+num.names$ -- 15
+pop$ -- 987
+preamble$ -- 1
+purify$ -- 5
+quote$ -- 0
+skip$ -- 1889
+stack$ -- 0
+substring$ -- 799
+swap$ -- 10
+text.length$ -- 40
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 51
+warning$ -- 0
+while$ -- 54
+width$ -- 0
+write$ -- 73

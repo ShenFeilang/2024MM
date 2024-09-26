@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: example.aux
+The style file: gmcm.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: reference.bib
+Warning--empty year in rn4
+Warning--empty author and editor in rn4
+Warning--empty year in rn4
+Warning--empty year in rn4
+You've used 5 entries,
+            3957 wiz_defined-function locations,
+            886 strings with 6958 characters,
+and the built_in function-call counts, 16886 in all, are:
+= -- 275
+> -- 1812
+< -- 2525
++ -- 769
+- -- 33
+* -- 176
+:= -- 2469
+add.period$ -- 5
+call.type$ -- 5
+change.case$ -- 5
+chr.to.int$ -- 667
+cite$ -- 10
+duplicate$ -- 82
+empty$ -- 210
+format.name$ -- 62
+if$ -- 4264
+int.to.chr$ -- 1
+int.to.str$ -- 6
+missing$ -- 0
+newline$ -- 30
+num.names$ -- 12
+pop$ -- 572
+preamble$ -- 1
+purify$ -- 5
+quote$ -- 0
+skip$ -- 1835
+stack$ -- 0
+substring$ -- 815
+swap$ -- 13
+text.length$ -- 40
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 55
+warning$ -- 4
+while$ -- 56
+width$ -- 0
+write$ -- 72
+(There were 4 warnings)

@@ -1,0 +1,30 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
+  \urlstyle{same}\fi
+
+\bibitem[{方震\ 等(2007)方震, 赵湛, 郭鹏, and 张玉国}]{rn1}
+方震, 赵湛, 郭鹏, 等,
+\newblock 基于RSSI测距分析,
+\newblock 传感技术学报, 20\penalty0 (11):\penalty0 2526-2530, 2007.
+
+\bibitem[{T.R. et~al.(2005)T.R., T.H., J.Y., S., and W.H.}]{rn5}
+T.R.~P, T.H.~K, J.Y.~C, et~al.,
+\newblock Throughput and energy consumption analysis of IEEE 802.15.4 slotted CSMA/CA,
+\newblock Electronics Letters, 41\penalty0 (18):\penalty0 1017-1019, 2005.
+
+\bibitem[{rn4()}]{rn4}
+无线局域网中发送PPDU的方法及设备.
+
+\bibitem[{罗振东(2010)}]{rn2}
+罗振东,
+\newblock 下一代WLAN技术标准802.11ac/ad,
+\newblock 现代电信科技\penalty0 (12):\penalty0 10-14, 2010.
+
+\bibitem[{Alabady et~al.(2014)Alabady, Salleh, and Hasib}]{rn3}
+Alabady~S~A, Salleh~M~F~M, Hasib~A,
+\newblock Throughput and Delay Analysis of IEEE 802.11 DCF in the Presence of Hidden Nodes for Multi-hop Wireless Networks,
+\newblock Wireless personal communications: An Internaional Journal, 79\penalty0 (2):\penalty0 907-927, 2014.
+
+\end{thebibliography}
